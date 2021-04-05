@@ -23,4 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: just-the-docs
+theme: jekyll-theme-cayman
